@@ -1,0 +1,21 @@
+body{
+	overflow-x: hidden;
+}
+
+.ls{
+	padding: 20px;
+	top: 50px;
+	width: 50%;
+	height: 50%
+}
+
+.lss{
+	padding: 20px;
+	width: 50%;
+	margin-left: 25%
+}
+
+
+.hide{
+	display: none;
+}
